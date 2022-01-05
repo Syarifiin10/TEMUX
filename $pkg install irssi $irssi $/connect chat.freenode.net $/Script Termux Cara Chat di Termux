@@ -1,0 +1,4 @@
+$ pkg install irssi
+$ irssi
+$ /connect chat.freenode.net
+$ /nick bebas
